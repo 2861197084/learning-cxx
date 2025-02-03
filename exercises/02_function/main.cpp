@@ -3,7 +3,7 @@
 // READ: 声明 <https://zh.cppreference.com/w/cpp/language/declarations>
 // NOTICE: cppreference 中的示例中指出了复杂声明的解读法，建议认真阅读。
 // NOTICE: 补充由内而外读法的机翻解释 <https://learn.microsoft.com/zh-cn/cpp/c-language/interpreting-more-complex-declarators?view=msvc-170>
-
+int add(int,int);
 // TODO: 在这里声明函数
 
 int main(int argc, char **argv) {
